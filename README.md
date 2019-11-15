@@ -1,2 +1,2 @@
 # Blog-Site-FSD
-Front-end Blogging Site Graded Project UPGRAD
+UPGRAD Frontend Blogging Site Graded Project
