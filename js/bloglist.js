@@ -1,17 +1,16 @@
-function openSignIn() {
-    document.getElementById('signInModal').style.display='block';
-}
-    
-function openSignUp() {
-    document.getElementById('signUpModal').style.display='block';
-}
+//  Redirecting to post.html page
+function fullPost(){
+    window.location.href="./post.html";
+  }
 
-function onCloseModalClicked() {
-    document.getElementById('signInModal').style.display='none';
-    document.getElementById('signUpModal').style.display='none';
-}
-
-function openSignUpButton(){
-    document.getElementById('signUpModal').style.display='block';
-}
-    
+  // pressing trash button block appears
+  function onDeletePost(){
+    document.getElementById('deletePostPrompt').style.display='block';
+  }
+  
+  // on pressing no block disappears
+  function onCloseDeleteClicked() {
+    document.getElementById('deletePostPrompt').style.display='none';
+  }
+  
+  
