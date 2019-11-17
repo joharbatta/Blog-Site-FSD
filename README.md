@@ -1,5 +1,17 @@
 # Blog-Site-FSD
-UPGRAD Frontend Blogging Site Graded Project
+UPGRAD Front-end Blogging Site Graded Project | Scribbler | 
+### LIVE LINK !!! 
+<a href="https://joharbatta.github.io/Blog-Site-FSD/">TRY OUT!<a>
+## HOME PAGE
+ ![](Screenshots/Screenshot.png)
+#### SIGN IN
+ ![](Screenshots/signin.png)
+#### SIGN UP
+ ![](Screenshots/signup.png)
 
-### PART A
-![](Screenshots/Screenshot.png)
+
+---------------------------------------------------------------------------------
+
+## LIST OF BLOGS
+![](Screenshots/page2.png)
+
